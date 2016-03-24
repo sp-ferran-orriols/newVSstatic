@@ -1,0 +1,15 @@
+{
+    "autoload":{
+        "psr-0":{
+            "":"src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-0": {
+            "spec\\":""
+        }
+    },
+    "require-dev":{
+        "phpspec/phpspec": "~2.4.0"
+    }
+}
